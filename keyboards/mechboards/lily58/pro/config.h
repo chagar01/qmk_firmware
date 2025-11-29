@@ -4,3 +4,6 @@
 #pragma once
 
 #include "keyboards/mechboards/common/rgb_effects.h"
+#define DEBOUNCE 15
+
+
